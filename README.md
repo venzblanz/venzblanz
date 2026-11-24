@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9E102B,50:DC143C,100:FF8FA3&height=120&section=header&text=Venz%20Virni%20T.%20Blanza&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=CS/IT%20Student%20%7C%20Full-Stack%2C%20Systems%20%26%20Game%20Dev&descAlignY=60&descSize=15" width="100%" />
+<img src="./assets/banner.svg" width="100%" alt="Venz Virni T. Blanza" />
 
 <br/>
 
@@ -13,25 +13,15 @@
 
 <br/>
 
-<!-- SECTION: ABOUT ME -->
-<svg width="100%" height="28" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="20" fill="#FF8FA3" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="800" letter-spacing="1.5">ABOUT ME</text>
-</svg>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC143C,100:FF8FA3&height=3" width="100%" />
-
-<br/>
+<img src="./assets/header-about.svg" height="28" alt="ABOUT ME" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 I'm **Venz Virni T. Blanza**, a Computer Science / IT student at **Cebu Institute of Technology – University** based in Mandaue, Cebu. I enjoy building full-stack apps, writing data structures and algorithms from scratch, experimenting with ML/AI and game dev, and tweaking Linux setups (`Hyprland` on Arch).
 
 <br/>
 
-<!-- SECTION: CURRENT PROJECTS -->
-<svg width="100%" height="28" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="20" fill="#FF8FA3" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="800" letter-spacing="1.5">CURRENT PROJECTS</text>
-</svg>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC143C,100:FF8FA3&height=3" width="100%" />
-
-<br/>
+<img src="./assets/header-current.svg" height="28" alt="CURRENT PROJECTS" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 * **ReNote** — Personal media library web app (anime, manga, movies, novels, comics) with custom folders and decoupled media/user logs, built with **Django**, **Supabase (PostgreSQL)**, and **Render**.
 * **Dango** — Companion media streaming platform built with **Node.js** and **SQLite**.
@@ -41,13 +31,8 @@ I'm **Venz Virni T. Blanza**, a Computer Science / IT student at **Cebu Institut
 
 <br/>
 
-<!-- SECTION: NOTABLE BUILDS -->
-<svg width="100%" height="28" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="20" fill="#FF8FA3" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="800" letter-spacing="1.5">NOTABLE BUILDS</text>
-</svg>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC143C,100:FF8FA3&height=3" width="100%" />
-
-<br/>
+<img src="./assets/header-builds.svg" height="28" alt="NOTABLE BUILDS" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 * **WildQuest** — Gamified Android quiz-review app using **Kotlin**, **Room**, Vertical Slicing, and MVP.
 * **MedServe** — Public health center appointment and queueing system built in **JavaFX**.
@@ -56,18 +41,10 @@ I'm **Venz Virni T. Blanza**, a Computer Science / IT student at **Cebu Institut
 
 <br/>
 
-<!-- SECTION: TECH STACK -->
-<svg width="100%" height="28" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="20" fill="#FF8FA3" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="800" letter-spacing="1.5">TECH STACK</text>
-</svg>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC143C,100:FF8FA3&height=3" width="100%" />
+<img src="./assets/header-stack.svg" height="28" alt="TECH STACK" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<br/>
-
-<svg width="100%" height="24" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="17" fill="#DC143C" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" letter-spacing="1">LANGUAGES</text>
-</svg>
-
+#### `LANGUAGES`
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -76,10 +53,7 @@ I'm **Venz Virni T. Blanza**, a Computer Science / IT student at **Cebu Institut
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<svg width="100%" height="24" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="17" fill="#DC143C" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" letter-spacing="1">FRAMEWORKS, WEB &amp; INFRA</text>
-</svg>
-
+#### `FRAMEWORKS, WEB & INFRA`
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -91,10 +65,7 @@ I'm **Venz Virni T. Blanza**, a Computer Science / IT student at **Cebu Institut
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<svg width="100%" height="24" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="17" fill="#DC143C" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" letter-spacing="1">DATABASES &amp; DATA / ML</text>
-</svg>
-
+#### `DATABASES & DATA / ML`
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
